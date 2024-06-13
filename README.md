@@ -1,4 +1,4 @@
-# Company Layoffs Data Cleaning Project
+# Company Layoffs Data Cleaning AND EDA Project
 
 ## Project Overview
 
